@@ -3,7 +3,8 @@ about the original project.
 
 This version is geared towards generating a public archive of all your
 tweets from the official Twitter text exports one can [obtain under EU
-data protection laws][2]. 
+data protection laws][2]. You need to install the 'pytz' module to use
+this.
 
 [1]: http://twitter.com/drdrang/blackbirdpy
 [2]: http://www.annehelmond.nl/2012/04/17/what-does-twitter-know-about-me-my-zip-file-with-50mb-of-data/
